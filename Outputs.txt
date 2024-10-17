@@ -1,0 +1,114 @@
+----------------------DAN_GloVe----------------------
+
+2 layers DAN_GloVe with 50d:
+Read in 14923 vectors of size 50
+Epoch #10: train accuracy 0.711, dev accuracy 0.708
+Epoch #20: train accuracy 0.788, dev accuracy 0.756
+Epoch #30: train accuracy 0.847, dev accuracy 0.771
+Epoch #40: train accuracy 0.876, dev accuracy 0.782
+Epoch #50: train accuracy 0.902, dev accuracy 0.790
+Epoch #60: train accuracy 0.925, dev accuracy 0.790
+Epoch #70: train accuracy 0.943, dev accuracy 0.786
+Epoch #80: train accuracy 0.956, dev accuracy 0.786
+Epoch #90: train accuracy 0.967, dev accuracy 0.786
+Epoch #100: train accuracy 0.976, dev accuracy 0.784
+
+3 layers DAN_GloVe with 50d:
+Read in 14923 vectors of size 50
+Epoch #10: train accuracy 0.770, dev accuracy 0.747
+Epoch #20: train accuracy 0.826, dev accuracy 0.764
+Epoch #30: train accuracy 0.866, dev accuracy 0.775
+Epoch #40: train accuracy 0.903, dev accuracy 0.781
+Epoch #50: train accuracy 0.928, dev accuracy 0.783
+Epoch #60: train accuracy 0.948, dev accuracy 0.788
+Epoch #70: train accuracy 0.965, dev accuracy 0.789
+Epoch #80: train accuracy 0.976, dev accuracy 0.797
+Epoch #90: train accuracy 0.984, dev accuracy 0.796
+Epoch #100: train accuracy 0.989, dev accuracy 0.797
+
+2 layers DAN_GloVe with 300d:
+Read in 14923 vectors of size 300
+Epoch #10: train accuracy 0.858, dev accuracy 0.803
+Epoch #20: train accuracy 0.917, dev accuracy 0.813
+Epoch #30: train accuracy 0.953, dev accuracy 0.807
+Epoch #40: train accuracy 0.978, dev accuracy 0.806
+Epoch #50: train accuracy 0.989, dev accuracy 0.804
+Epoch #60: train accuracy 0.993, dev accuracy 0.804
+Epoch #70: train accuracy 0.997, dev accuracy 0.794
+Epoch #80: train accuracy 0.999, dev accuracy 0.788
+Epoch #90: train accuracy 0.999, dev accuracy 0.779
+Epoch #100: train accuracy 1.000, dev accuracy 0.781
+
+3 layers DAN_GloVe with 300d:
+Read in 14923 vectors of size 300
+Epoch #10: train accuracy 0.883, dev accuracy 0.815
+Epoch #20: train accuracy 0.943, dev accuracy 0.811
+Epoch #30: train accuracy 0.978, dev accuracy 0.796
+Epoch #40: train accuracy 0.992, dev accuracy 0.798
+Epoch #50: train accuracy 0.997, dev accuracy 0.792
+Epoch #60: train accuracy 0.999, dev accuracy 0.783
+Epoch #70: train accuracy 1.000, dev accuracy 0.784
+Epoch #80: train accuracy 1.000, dev accuracy 0.780
+Epoch #90: train accuracy 1.000, dev accuracy 0.774
+Epoch #100: train accuracy 1.000, dev accuracy 0.771
+
+
+
+
+
+
+----------------------DAN_Random----------------------
+
+2 layers DAN_Random with 50d:
+Read in 14923 vectors of size 50
+Epoch #10: train accuracy 0.585, dev accuracy 0.620
+Epoch #20: train accuracy 0.632, dev accuracy 0.649
+Epoch #30: train accuracy 0.688, dev accuracy 0.671
+Epoch #40: train accuracy 0.727, dev accuracy 0.695
+Epoch #50: train accuracy 0.760, dev accuracy 0.705
+Epoch #60: train accuracy 0.796, dev accuracy 0.721
+Epoch #70: train accuracy 0.821, dev accuracy 0.731
+Epoch #80: train accuracy 0.848, dev accuracy 0.742
+Epoch #90: train accuracy 0.864, dev accuracy 0.747
+Epoch #100: train accuracy 0.885, dev accuracy 0.753
+
+3 layers DAN_Random with 50d:
+Read in 14923 vectors of size 50
+Epoch #10: train accuracy 0.601, dev accuracy 0.583
+Epoch #20: train accuracy 0.662, dev accuracy 0.650
+Epoch #30: train accuracy 0.717, dev accuracy 0.680
+Epoch #40: train accuracy 0.763, dev accuracy 0.689
+Epoch #50: train accuracy 0.796, dev accuracy 0.725
+Epoch #60: train accuracy 0.822, dev accuracy 0.724
+Epoch #70: train accuracy 0.847, dev accuracy 0.733
+Epoch #80: train accuracy 0.866, dev accuracy 0.734
+Epoch #90: train accuracy 0.887, dev accuracy 0.737
+Epoch #100: train accuracy 0.902, dev accuracy 0.733
+
+2 layers DAN_Random with 300d:
+Read in 14923 vectors of size 300
+Epoch #10: train accuracy 0.628, dev accuracy 0.640
+Epoch #20: train accuracy 0.726, dev accuracy 0.711
+Epoch #30: train accuracy 0.799, dev accuracy 0.748
+Epoch #40: train accuracy 0.852, dev accuracy 0.764
+Epoch #50: train accuracy 0.885, dev accuracy 0.784
+Epoch #60: train accuracy 0.911, dev accuracy 0.764
+Epoch #70: train accuracy 0.933, dev accuracy 0.757
+Epoch #80: train accuracy 0.952, dev accuracy 0.759
+Epoch #90: train accuracy 0.962, dev accuracy 0.776
+Epoch #100: train accuracy 0.971, dev accuracy 0.775
+
+3 layers DAN_Random with 300d:
+Read in 14923 vectors of size 300
+Epoch #10: train accuracy 0.664, dev accuracy 0.640
+Epoch #20: train accuracy 0.780, dev accuracy 0.700
+Epoch #30: train accuracy 0.840, dev accuracy 0.735
+Epoch #40: train accuracy 0.879, dev accuracy 0.750
+Epoch #50: train accuracy 0.913, dev accuracy 0.769
+Epoch #60: train accuracy 0.934, dev accuracy 0.760
+Epoch #70: train accuracy 0.956, dev accuracy 0.763
+Epoch #80: train accuracy 0.966, dev accuracy 0.753
+Epoch #90: train accuracy 0.973, dev accuracy 0.760
+Epoch #100: train accuracy 0.975, dev accuracy 0.755
+
+
